@@ -1,1 +1,212 @@
-# Lampoooceansitemap
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.lampoooceantravel.com/</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/special-deal-tour-package</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/Welcome</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/Booking</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/Get-A-Tickets</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/bangkok-tour</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/rent-a-car</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/More-Info</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/about</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/faqs</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/Sightseeing</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/amphawa-experience</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/lopburi-monkey-city-ayutthaya</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/Sightseeing-Kanchanaburi</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/ayutthaya-experience</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/pattaya-experience</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/chaing-mai</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/chaing-rai</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/sukhothai</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/koh-tao</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/koh-samui</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/koh-phuket</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/koh-phi-phi</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/koh-chang</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/krabi</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/ao-nang</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/khao-lak</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/scuba-diving-courses</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/dinner-cruise-seafood-buffet</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/bangkok-half-day-trip</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/transportation-tickets</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/nationwide-train-tickets</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/wat-arun-temple-of-dawn</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/the-grand-palace</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/the-chao-phraya-river</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/top-5-must-try-thai-food</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/muay-thai-bangkok-vacation-package</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/bangkoks-most-iconic-temples</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/bangkok-canal-tours</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.lampoooceantravel.com/historic-communities-in-bangkok</loc>
+  <lastmod>2025-07-22T10:27:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
